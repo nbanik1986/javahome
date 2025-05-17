@@ -1,1 +1,2 @@
 Sample file
+this us new line
